@@ -1,0 +1,12 @@
+nav {
+    background-color: rgb(236, 198, 206);
+}
+h4, .carousel-bg {
+    background-color: rgba(71, 71, 71, 0.623);
+}
+.carousel-inner img {
+    /* Cambia el valor según la altura deseada */
+    height: 400px;
+    /* Asegura que las imágenes se ajusten sin deformarse */
+    object-fit: cover;
+}
