@@ -6,7 +6,17 @@ h4, .carousel-bg {
 }
 .carousel-inner img {
     /* Cambia el valor según la altura deseada */
-    height: 400px;
+    height: 450px;
     /* Asegura que las imágenes se ajusten sin deformarse */
     object-fit: cover;
+}
+.product-img {
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+    margin: 0 auto; /* Center the image horizontally */
+}
+.card {
+    width: 300px;
+    margin: 0 auto; /* Center the card horizontally */
 }
