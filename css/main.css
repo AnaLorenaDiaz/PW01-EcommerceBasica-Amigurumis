@@ -3,9 +3,13 @@
     margin: 0;
     padding: 0;
 }
-nav, #contacto {
+nav {
     background-color: rgb(236, 198, 206);
 }
+#contacto {
+    background-color: rgb(236, 180, 192);
+}
+
 h4, .carousel-bg {
     background-color: rgba(71, 71, 71, 0.623);
 }
